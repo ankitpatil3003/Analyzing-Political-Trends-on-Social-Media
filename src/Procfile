@@ -1,0 +1,3 @@
+faktory: /usr/local/bin/faktory
+client: /home/pmarath1/anaconda3/envs/trial/bin/python ./reddit.py
+worker: /home/pmarath1/anaconda3/envs/trial/bin/python ./fclient.py
