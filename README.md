@@ -1,5 +1,15 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QM6TDYML)
+# Description
+1) Conducted in-depth analysis of social media trends using data analytics and sentiment analysis, revealing prevalent political currents and public sentiments in the digital age.
+2) Applied data-driven techniques to identify patterns, trends, and sentiments on platforms such as Reddit and 4Chan, offering insights into diverse perspectives, political affiliations, and emotional dynamics in contemporary political engagement.
+3) Investigated and addressed the prevalence, origins, and impact of hate speech and online abuse in the online political landscape, developing strategies to mitigate harm and contributing to a nuanced understanding of digitally connected political discourse.
 
+# Team Members
+1) Ankit Patil
+2) Paritosh Marathe
+3) Piyush Rathod
+4) Parinita Chinchalikar
+5) Danashree Borkar
 
 # Notes on running :
 ---
